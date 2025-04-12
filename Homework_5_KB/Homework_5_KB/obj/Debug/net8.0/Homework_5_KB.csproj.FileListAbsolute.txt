@@ -1,0 +1,14 @@
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\bin\Debug\net8.0\Homework_5_KB.exe
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\bin\Debug\net8.0\Homework_5_KB.deps.json
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\bin\Debug\net8.0\Homework_5_KB.runtimeconfig.json
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\bin\Debug\net8.0\Homework_5_KB.dll
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\bin\Debug\net8.0\Homework_5_KB.pdb
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\obj\Debug\net8.0\Homework_5_KB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\obj\Debug\net8.0\Homework_5_KB.AssemblyInfoInputs.cache
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\obj\Debug\net8.0\Homework_5_KB.AssemblyInfo.cs
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\obj\Debug\net8.0\Homework_5_KB.csproj.CoreCompileInputs.cache
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\obj\Debug\net8.0\Homework_5_KB.dll
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\obj\Debug\net8.0\refint\Homework_5_KB.dll
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\obj\Debug\net8.0\Homework_5_KB.pdb
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\obj\Debug\net8.0\Homework_5_KB.genruntimeconfig.cache
+C:\Users\javis\source\repos\Homework_5_KB\Homework_5_KB\obj\Debug\net8.0\ref\Homework_5_KB.dll
