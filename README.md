@@ -11,7 +11,7 @@ This repository contains homeworks completed as part of the course **Designing a
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Javis79/Designing-and-creating-high-level-object-oriented-applications-Homeworks.git
+   git clone https://github.com/Javis79/Designing-high-level-object-oriented-applications-in-c-
    ```
 2. Navigate to the desired homework folder.
 3. Open the project in **Visual Studio**.
