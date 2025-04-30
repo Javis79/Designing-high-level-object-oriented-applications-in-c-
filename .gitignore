@@ -1,0 +1,13 @@
+# Pliki builda .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Pliki Visual Studio
+.vs/
+
+# Inne pliki tymczasowe
+*.cache
+*.drawio
+*.pdf
