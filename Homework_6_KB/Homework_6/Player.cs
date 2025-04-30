@@ -1,0 +1,31 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Homework_6
+{
+    class Player
+    {
+        public string StrategyName {  get; set; }
+        private IStrategy currentStrategy; // the algorithm used to make moves
+        public List<bool> PartnerMoves { get; set; } // true means cooperation, false means betrayal
+        public int Score { get; set; } // game score
+
+        public Player(IStrategy initialStrategy, string strategyName)
+        {
+            PartnerMoves = new List<bool>();
+            currentStrategy = initialStrategy;
+            StrategyName = strategyName;
+        }
+        public void SetStrategy(IStrategy newStrategy)
+        {
+            currentStrategy = newStrategy;
+        }
+
+        public bool GetNextMove()
+        {
+            return currentStrategy.GetNextMove(PartnerMoves);
+        }
+
+    }
+}

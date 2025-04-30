@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\javis\\source\\repos\\Homework_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|c:\\users\\javis\\source\\repos\\homework_6\\homework_6\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|solutionrelative:homework_6\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|c:\\users\\javis\\source\\repos\\homework_6\\homework_6\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|solutionrelative:homework_6\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|c:\\users\\javis\\source\\repos\\homework_6\\homework_6\\strategyalwaysfalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|solutionrelative:homework_6\\strategyalwaysfalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|c:\\users\\javis\\source\\repos\\homework_6\\homework_6\\strategyrepeater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|solutionrelative:homework_6\\strategyrepeater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|c:\\users\\javis\\source\\repos\\homework_6\\homework_6\\strategygrudger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|solutionrelative:homework_6\\strategygrudger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|c:\\users\\javis\\source\\repos\\homework_6\\homework_6\\strategyrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|solutionrelative:homework_6\\strategyrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|c:\\users\\javis\\source\\repos\\homework_6\\homework_6\\strategycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|solutionrelative:homework_6\\strategycounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|c:\\users\\javis\\source\\repos\\homework_6\\homework_6\\strategyforgiving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|solutionrelative:homework_6\\strategyforgiving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|c:\\users\\javis\\source\\repos\\homework_6\\homework_6\\strategyalwaystrue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|solutionrelative:homework_6\\strategyalwaystrue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|c:\\users\\javis\\source\\repos\\homework_6\\homework_6\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|solutionrelative:homework_6\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|c:\\users\\javis\\source\\repos\\homework_6\\homework_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C502B43-F409-402A-A0AD-771E86496881}|Homework_6\\Homework_6.csproj|solutionrelative:homework_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StrategyForgiving.cs",
+              "DocumentMoniker": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyForgiving.cs",
+              "RelativeDocumentMoniker": "Homework_6\\StrategyForgiving.cs",
+              "ToolTip": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyForgiving.cs",
+              "RelativeToolTip": "Homework_6\\StrategyForgiving.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:44:33.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StrategyRandom.cs",
+              "DocumentMoniker": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyRandom.cs",
+              "RelativeDocumentMoniker": "Homework_6\\StrategyRandom.cs",
+              "ToolTip": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyRandom.cs",
+              "RelativeToolTip": "Homework_6\\StrategyRandom.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:42:15.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StrategyGrudger.cs",
+              "DocumentMoniker": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyGrudger.cs",
+              "RelativeDocumentMoniker": "Homework_6\\StrategyGrudger.cs",
+              "ToolTip": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyGrudger.cs",
+              "RelativeToolTip": "Homework_6\\StrategyGrudger.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:40:18.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StrategyRepeater.cs",
+              "DocumentMoniker": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyRepeater.cs",
+              "RelativeDocumentMoniker": "Homework_6\\StrategyRepeater.cs",
+              "ToolTip": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyRepeater.cs",
+              "RelativeToolTip": "Homework_6\\StrategyRepeater.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:38:19.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StrategyCounter.cs",
+              "DocumentMoniker": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyCounter.cs",
+              "RelativeDocumentMoniker": "Homework_6\\StrategyCounter.cs",
+              "ToolTip": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyCounter.cs",
+              "RelativeToolTip": "Homework_6\\StrategyCounter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T13:06:09.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StrategyAlwaysFalse.cs",
+              "DocumentMoniker": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyAlwaysFalse.cs",
+              "RelativeDocumentMoniker": "Homework_6\\StrategyAlwaysFalse.cs",
+              "ToolTip": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyAlwaysFalse.cs",
+              "RelativeToolTip": "Homework_6\\StrategyAlwaysFalse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:49:05.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StrategyAlwaysTrue.cs",
+              "DocumentMoniker": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyAlwaysTrue.cs",
+              "RelativeDocumentMoniker": "Homework_6\\StrategyAlwaysTrue.cs",
+              "ToolTip": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\StrategyAlwaysTrue.cs",
+              "RelativeToolTip": "Homework_6\\StrategyAlwaysTrue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:45:52.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\Strategy.cs",
+              "RelativeDocumentMoniker": "Homework_6\\Strategy.cs",
+              "ToolTip": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\Strategy.cs",
+              "RelativeToolTip": "Homework_6\\Strategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:45:49.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\Program.cs",
+              "RelativeDocumentMoniker": "Homework_6\\Program.cs",
+              "ToolTip": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\Program.cs",
+              "RelativeToolTip": "Homework_6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:45:39.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\Game.cs",
+              "RelativeDocumentMoniker": "Homework_6\\Game.cs",
+              "ToolTip": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\Game.cs",
+              "RelativeToolTip": "Homework_6\\Game.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:45:33.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\Player.cs",
+              "RelativeDocumentMoniker": "Homework_6\\Player.cs",
+              "ToolTip": "C:\\Users\\javis\\source\\repos\\Homework_6\\Homework_6\\Player.cs",
+              "RelativeToolTip": "Homework_6\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T12:45:22.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
